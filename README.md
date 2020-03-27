@@ -11,3 +11,5 @@ or problems in accessing and acquiring the proper equipments
 required for diagnosis. In this project, we explore different
 techniques for the automation and unsupervised detection of
 malarial parasites.
+
+The extended details are provided in the pdf file.
